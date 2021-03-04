@@ -10,4 +10,4 @@ spec:
     name: grafana
     version: 1.5.0
   values:
-    url: http://prometheus.monitoring:9090
+    url: http://prometheus.istio-system:9090

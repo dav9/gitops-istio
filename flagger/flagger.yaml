@@ -11,4 +11,4 @@ spec:
     version: 1.6.4
   values:
     meshProvider: istio
-    metricsServer: http://prometheus.monitoring:9090
+    metricsServer: http://prometheus.istio-system:9090
